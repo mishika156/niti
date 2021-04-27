@@ -1,0 +1,17 @@
+.menu{
+    position:fixed;
+    background:white;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index: 10;
+}
+a{
+    text-decoration:none;
+}
+.article :any-linkhower{
+    color:fuchsia;
+}
+html{
+    scroll-behavior: smooth;
+}
